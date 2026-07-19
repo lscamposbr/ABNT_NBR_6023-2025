@@ -59,4 +59,7 @@ Na seção "Citações e Bibliografia", clique no menu suspenso Estilo.
 Selecione ABNT NBR 6023:2025*.
 Adicione suas fontes clicando em Inserir Citação > Adicionar Nova Fonte Bibliográfica.
 
+mais detalhes em: https://support.microsoft.com/pt-BR/Word/training/create-a-bibliography-citations-and-references
+
+
 Créditos: Projeto original criado por Yves Dhondt (BibWord). Modificações e adaptações de código para as NBRs de 2023/2025 realizadas pela comunidade.
